@@ -1,0 +1,5 @@
+# httppartyRspec
+
+httpparty
+Rspec
+Cucumber
